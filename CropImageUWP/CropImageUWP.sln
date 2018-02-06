@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CropImageUWP", "CropImageUWP\CropImageUWP.csproj", "{F284AA29-98E8-4705-A2C9-CFCEED114B2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM = Release|ARM
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F284AA29-98E8-4705-A2C9-CFCEED114B2F}.Debug|ARM.ActiveCfg = Debug|ARM
+		{F284AA29-98E8-4705-A2C9-CFCEED114B2F}.Debug|ARM.Build.0 = Debug|ARM
+		{F284AA29-98E8-4705-A2C9-CFCEED114B2F}.Debug|ARM.Deploy.0 = Debug|ARM
+		{F284AA29-98E8-4705-A2C9-CFCEED114B2F}.Debug|x64.ActiveCfg = Debug|x64
+		{F284AA29-98E8-4705-A2C9-CFCEED114B2F}.Debug|x64.Build.0 = Debug|x64
+		{F284AA29-98E8-4705-A2C9-CFCEED114B2F}.Debug|x64.Deploy.0 = Debug|x64
+		{F284AA29-98E8-4705-A2C9-CFCEED114B2F}.Debug|x86.ActiveCfg = Debug|x86
+		{F284AA29-98E8-4705-A2C9-CFCEED114B2F}.Debug|x86.Build.0 = Debug|x86
+		{F284AA29-98E8-4705-A2C9-CFCEED114B2F}.Debug|x86.Deploy.0 = Debug|x86
+		{F284AA29-98E8-4705-A2C9-CFCEED114B2F}.Release|ARM.ActiveCfg = Release|ARM
+		{F284AA29-98E8-4705-A2C9-CFCEED114B2F}.Release|ARM.Build.0 = Release|ARM
+		{F284AA29-98E8-4705-A2C9-CFCEED114B2F}.Release|ARM.Deploy.0 = Release|ARM
+		{F284AA29-98E8-4705-A2C9-CFCEED114B2F}.Release|x64.ActiveCfg = Release|x64
+		{F284AA29-98E8-4705-A2C9-CFCEED114B2F}.Release|x64.Build.0 = Release|x64
+		{F284AA29-98E8-4705-A2C9-CFCEED114B2F}.Release|x64.Deploy.0 = Release|x64
+		{F284AA29-98E8-4705-A2C9-CFCEED114B2F}.Release|x86.ActiveCfg = Release|x86
+		{F284AA29-98E8-4705-A2C9-CFCEED114B2F}.Release|x86.Build.0 = Release|x86
+		{F284AA29-98E8-4705-A2C9-CFCEED114B2F}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3921585F-504B-44DF-BDFC-7DE0FB779222}
+	EndGlobalSection
+EndGlobal
